@@ -22,7 +22,7 @@ To run this project locally, follow these steps:
 
 2. Navigate to the project directory:
    ```bash
-   cd company-management-system
+   cd Company-Management-System-with-Java
    ```
 
 3. Build the project using a Java IDE like **IntelliJ IDEA** or **Eclipse**.
@@ -74,5 +74,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For any questions or suggestions, feel free to contact:
 
-- **Your Name**: your.email@example.com
-- **GitHub**: [your-username](https://github.com/your-username)
+- **Your Name**: muhammedsaidsyed215@gmail.com
+- **GitHub**: https://github.com/MohamedSci
