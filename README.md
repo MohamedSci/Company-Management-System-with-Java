@@ -1,5 +1,4 @@
 
-```markdown
 # Company Management System
 
 A desktop-based application built with **Java Swing** for managing company resources, including Employees, Customers, and Orders. The application uses **SQLite** as the database source, providing an efficient solution for small- to medium-sized businesses.
@@ -77,8 +76,3 @@ For any questions or suggestions, feel free to contact:
 
 - **Your Name**: your.email@example.com
 - **GitHub**: [your-username](https://github.com/your-username)
-
----
-
-**Disclaimer**: This application is a sample project and should be tailored to meet specific business requirements.
-```
