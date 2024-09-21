@@ -1,5 +1,5 @@
 
-# Company Management System
+# Company Management System with Java
 
 A desktop-based application built with **Java Swing** for managing company resources, including Employees, Customers, and Orders. The application uses **SQLite** as the database source, providing an efficient solution for small- to medium-sized businesses.
 
