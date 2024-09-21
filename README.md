@@ -22,7 +22,7 @@ To run this project locally, follow these steps:
 
 2. Navigate to the project directory:
    ```bash
-   cd Company-Management-System-with-Java
+   cd Company-Management-System-with-Java-Swing
    ```
 
 3. Build the project using a Java IDE like **IntelliJ IDEA** or **Eclipse**.
