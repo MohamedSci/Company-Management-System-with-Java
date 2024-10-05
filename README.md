@@ -76,3 +76,7 @@ For any questions or suggestions, feel free to contact:
 
 - **Your Name**: muhammedsaidsyed215@gmail.com
 - **GitHub**: https://github.com/MohamedSci
+
+## [Buy me a Coffee☕](<https://ko-fi.com/mohamedsaidibrahim>)
+
+If you enjoy this content and want to support me, feel free to [buy me a coffee](<https://ko-fi.com/mohamedsaidibrahim>)
